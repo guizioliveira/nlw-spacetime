@@ -7,10 +7,10 @@ import {
 
 const roboto = Roboto({ subsets: ['latin'], variable: '--font-roboto' })
 
-const baiJanjuree = BaiJamjuree({
+const baiJamjuree = BaiJamjuree({
   subsets: ['latin'],
   weight: '700',
-  variable: '--font-bai-janjuree',
+  variable: '--font-bai-jamjuree',
 })
 
 export const metadata = {
@@ -26,7 +26,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${roboto.variable} ${baiJanjuree.variable} bg-gray-900 font-sans text-gray-100`}
+        className={`${roboto.variable} ${baiJamjuree.variable} bg-gray-900 font-sans text-gray-100`}
       >
         {children}
       </body>

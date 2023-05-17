@@ -9,7 +9,7 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: 'var(--font-roboto)',
-        alt: 'var(--font-bai-janjuree)',
+        alt: 'var(--font-bai-jamjuree)',
       },
 
       fontSize: {

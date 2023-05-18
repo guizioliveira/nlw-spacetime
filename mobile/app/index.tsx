@@ -35,6 +35,7 @@ export default function App() {
       'https://github.com/settings/connections/applications/e385ccce07cec960c61e',
   }
 
+  // eslint-disable-next-line no-unused-vars
   const [request, response, signInWithGithub] = useAuthRequest(
     {
       clientId: 'e385ccce07cec960c61e',

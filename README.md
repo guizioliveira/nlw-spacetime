@@ -1,7 +1,8 @@
 # NLW Spacetime
 <p align="center">
-  <img width="600" src="https://github.com/guizioliveira/nlw-spacetime/assets/21250477/da504dff-d17c-479b-93f1-cf6578445da1"/>
+  <img width="600" src="https://github.com/guizioliveira/nlw-spacetime/assets/21250477/28e5c058-f77e-4c24-ba88-9b11a8f6fa2a"/>
 </p>
+
 
 ## The project
 This is a project distributed by the [@Rocketseat](https://github.com/Rocketseat) team at the NLW (Next Level Week) event and it was developed by me in one week. This server application for you, after logged in, to create milestones within your career. These milestones can be published and shared with other people who are also registered on the platform. Authentication is done via OAuth with the Github service.

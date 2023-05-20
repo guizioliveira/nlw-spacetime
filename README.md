@@ -9,7 +9,7 @@ This is a project distributed by the [@Rocketseat](https://github.com/Rocketseat
 
 The application was made and distributed in the web version with Nextjs 13, in the mobile version with React Native, in addition to the APIs developed in nodejs and Prisma to handle the database. The application has not yet been published, but it is within the project's pipeline.
 
-## Technologies and libraries used:
+## Technologies and libraries used
 - NextJS
 - Typescript
 - TailwindCSS
@@ -24,7 +24,7 @@ The application was made and distributed in the web version with Nextjs 13, in t
 - JWT
 - DayJs
 
-## Next Steps: 
+## Next Steps
 
 - [ ] Memory edit page
 - [ ] Share memory link (If it is public)

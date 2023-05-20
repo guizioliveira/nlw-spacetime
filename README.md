@@ -4,7 +4,7 @@
 </p>
 
 ## The project
-This is a project distributed by the [@Rocketseat](https://www.rocketseat.com.br/) team at the NLW (Next Level Week) event and it was developed by me in one week. This server application for you, after logged in, to create milestones within your career. These milestones can be published and shared with other people who are also registered on the platform. Authentication is done via OAuth with the Github service.
+This is a project distributed by the [@Rocketseat](https://github.com/Rocketseat) team at the NLW (Next Level Week) event and it was developed by me in one week. This server application for you, after logged in, to create milestones within your career. These milestones can be published and shared with other people who are also registered on the platform. Authentication is done via OAuth with the Github service.
 
 The application was made and distributed in the web version with Nextjs 13, in the mobile version with React Native, in addition to the APIs developed in nodejs and Prisma to handle the database. The application has not yet been published, but it is within the project's pipeline.
 

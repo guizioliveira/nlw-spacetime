@@ -13,7 +13,7 @@ interface Memory {
   coverUrl: string
   excerpt: string
   id: string
-  createdAt: ScrollSetting
+  createdAt: string
 }
 
 export default function Memories() {
